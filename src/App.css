@@ -1,13 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color: white;
 }
+h1{
+    margin: 1vh 0;
+}
 .eins{
     margin: auto;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    width: 60%;
+    margin-bottom: 50px;
+    width: 100%;
     display: flex;
-    align-items: normal;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
 }
 .einseinszwei button{
@@ -17,25 +24,25 @@ body{
     font-size: large;
     padding: 15px;
     width: 250px;
-    margin: 20px;
+    margin: 28px;
 }
 .zwei{
     margin: auto;
     margin-bottom: 20px;
-    width: 60%;
+    width: 100%;
     display: flex;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    row-gap: 1px;
 }
 .zweieins{
-    padding: 15px;
+    padding: 20px;
     width: 250px;
     margin: 20px;
 }
 .zweieins input{
     font-size: large;
-    width: 500px;
+    width: 20vw;
     padding: 10px;
     border: 3px solid cornflowerblue;
     border-radius: 15px;
@@ -49,10 +56,16 @@ body{
     margin: 15px 0px;
     padding: 15px;
 }
-p{
-    margin-top: 70px;
-    text-align: center; 
-    margin-right: 35%;
-
+.infos{
+    margin: 10px 0;
 }
+p{
+    margin-left: 1vw;
+    width: 20vw;
+}
+li{
+    margin-left: 3vw;
+    width: 20vw;
+}
+
 
