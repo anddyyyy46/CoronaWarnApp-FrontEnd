@@ -1,7 +1,7 @@
 # CoronaWarnApp-FrontEnd
 This is a visualisation from the [CoronaWarnAppDaten.csv](https://github.com/anddyyyy46/CoronaWarnAppDaten-API/blob/master/CSVFileIntoDBScript/CoronaWarnAppDaten.csv) file, which is filled with data from the CoronaWarnApp(01.01.2020-05.072022).
 
-### Live-Demo: https://corona-warn-app-front-end.vercel.app/
+### Live-Demo (it's free hosted, so it could take up to 2min for loading): https://corona-warn-app-front-end.vercel.app/
 
 ## Installation:
 ```
